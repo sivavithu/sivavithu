@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Sivakumar Vithurshan — Software Engineer</title>
-  <desc id="description">A navy banner with mint accents. Full-stack development with .NET, Next.js, and TypeScript.</desc>
+  <desc id="description">A navy banner with mint accents. Engineering SaaS and full-stack development with Python, FastAPI, Next.js, and .NET.</desc>
   <rect width="1200" height="300" rx="12" fill="#101c2b"/>
   <path d="M0 299H1200" stroke="#6ee7c0" stroke-width="3"/>
   <g fill="none" stroke="#23394a" stroke-width="1">
@@ -9,13 +9,13 @@
   <g font-family="'Segoe UI', Arial, sans-serif">
     <text x="56" y="67" fill="#6ee7c0" font-size="16" letter-spacing="3" font-weight="600">SOFTWARE ENGINEER</text>
     <text x="53" y="142" fill="#f5f8fc" font-size="52" font-weight="700" letter-spacing="-1.5">Sivakumar Vithurshan</text>
-    <text x="56" y="187" fill="#b5c6d8" font-size="22">Building full-stack apps with practical AI.</text>
+    <text x="56" y="187" fill="#b5c6d8" font-size="22">Engineering SaaS. Cloud APIs. Practical AI.</text>
     <g fill="#d7e5ee" font-size="16" font-weight="600" letter-spacing="1.2">
-      <text x="56" y="250">.NET</text>
-      <text x="138" y="250">NEXT.JS</text>
-      <text x="261" y="250">TYPESCRIPT</text>
+      <text x="56" y="250">PYTHON / FASTAPI</text>
+      <text x="289" y="250">NEXT.JS</text>
+      <text x="412" y="250">.NET</text>
     </g>
-    <g fill="#6ee7c0"><circle cx="115" cy="244" r="2.5"/><circle cx="237" cy="244" r="2.5"/></g>
+    <g fill="#6ee7c0"><circle cx="266" cy="244" r="2.5"/><circle cx="388" cy="244" r="2.5"/></g>
   </g>
   <g fill="none" stroke="#6ee7c0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
     <path d="M950 113L916 148L950 183M1073 113L1107 148L1073 183M1030 96L991 200"/>

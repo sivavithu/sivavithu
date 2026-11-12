@@ -1,12 +1,23 @@
-![Sivakumar Vithurshan — Software Engineer. .NET, Next.js and TypeScript.](assets/profile-banner.svg)
+![Sivakumar Vithurshan — Software Engineer. Python, FastAPI, Next.js and .NET.](assets/profile-banner.svg)
 
 # Hi, I'm Vithurshan.
 
-I'm a software engineer building full-stack web applications with **.NET, Next.js, and TypeScript**. My projects bring together APIs, user interfaces, and practical AI features.
+I'm a software engineer building engineering SaaS, cloud APIs, and full-stack applications with **Python/FastAPI, React/Next.js, TypeScript, and .NET**. My work brings together engineering data, user interfaces, and practical AI features.
 
 [Portfolio](https://vithu98.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vithurshan-sivakumar-a55b2379/) · [Repositories](https://github.com/sivavithu?tab=repositories)
 
-## Selected work
+## Current work
+
+### GEO CoPilot · Engineering SaaS
+
+Working on a SaaS platform for geotechnical engineering workflows, across its cloud backend and web frontend. My work includes:
+
+- Multi-tenant APIs, PostgreSQL data workflows, and role-based access control.
+- Engineering project workflows, interactive visualization, and report generation.
+
+**Python · FastAPI · PostgreSQL · React · Next.js · TypeScript**
+
+## Selected public projects
 
 ### [CSE Pulse](https://github.com/sivavithu/cse-pulse)
 
@@ -30,6 +41,6 @@ A web application for tracking financial transactions, built with Next.js, Clerk
 
 ## Technologies I work with
 
-**Backend:** C#, ASP.NET Core, Entity Framework Core, REST APIs, JWT, Ocelot  
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS  
+**Backend:** Python, FastAPI, SQLAlchemy, C#, ASP.NET Core, Entity Framework Core  
+**Web & desktop:** React, Next.js, TypeScript, Tailwind CSS, Electron, Three.js  
 **Data & AI:** SQL Server, PostgreSQL, Turso / libSQL, Gemini API
