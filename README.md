@@ -4,8 +4,7 @@
 
 I'm a software engineer working across **full-stack development, cloud APIs, and practical AI**. My core stack is **Python/FastAPI, React/Next.js, TypeScript, and .NET**, with hands-on **AWS EC2** deployment work.
 
-[LinkedIn](https://www.linkedin.com/in/vithurshan-sivakumar-a55b2379/) · [GitHub](https://github.com/sivavithu) · [Portfolio](https://vithu98.vercel.app/)
-
+[LinkedIn](https://www.linkedin.com/in/vithurshan-sivakumar-a55b2379/) · [GitHub](https://github.com/sivavithu) · 
 ## Skills
 
 - **Backend & APIs:** Python, FastAPI, SQLAlchemy, C#, ASP.NET Core, Entity Framework Core, REST APIs, JWT authentication.
