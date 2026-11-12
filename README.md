@@ -2,20 +2,9 @@
 
 # Hi, I'm Vithurshan.
 
-I'm a software engineer building engineering SaaS, cloud APIs, and full-stack applications with **Python/FastAPI, React/Next.js, TypeScript, and .NET**. My work brings together engineering data, user interfaces, and practical AI features.
+I'm a software engineer building full-stack applications and cloud APIs with **Python/FastAPI, React/Next.js, TypeScript, and .NET**. I enjoy bringing together APIs, user interfaces, and practical AI features.
 
 [Portfolio](https://vithu98.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vithurshan-sivakumar-a55b2379/) · [Repositories](https://github.com/sivavithu?tab=repositories)
-
-## Current work
-
-### GEO CoPilot · Engineering SaaS
-
-Working on a SaaS platform for geotechnical engineering workflows, across its cloud backend and web frontend. My work includes:
-
-- Multi-tenant APIs, PostgreSQL data workflows, and role-based access control.
-- Engineering project workflows, interactive visualization, and report generation.
-
-**Python · FastAPI · PostgreSQL · React · Next.js · TypeScript**
 
 ## Selected public projects
 

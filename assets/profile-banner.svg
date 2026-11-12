@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title description">
   <title id="title">Sivakumar Vithurshan — Software Engineer</title>
-  <desc id="description">A navy banner with mint accents. Engineering SaaS and full-stack development with Python, FastAPI, Next.js, and .NET.</desc>
+  <desc id="description">A navy banner with mint accents. Full-stack development with Python, FastAPI, Next.js, and .NET.</desc>
   <rect width="1200" height="300" rx="12" fill="#101c2b"/>
   <path d="M0 299H1200" stroke="#6ee7c0" stroke-width="3"/>
   <g fill="none" stroke="#23394a" stroke-width="1">
@@ -9,7 +9,7 @@
   <g font-family="'Segoe UI', Arial, sans-serif">
     <text x="56" y="67" fill="#6ee7c0" font-size="16" letter-spacing="3" font-weight="600">SOFTWARE ENGINEER</text>
     <text x="53" y="142" fill="#f5f8fc" font-size="52" font-weight="700" letter-spacing="-1.5">Sivakumar Vithurshan</text>
-    <text x="56" y="187" fill="#b5c6d8" font-size="22">Engineering SaaS. Cloud APIs. Practical AI.</text>
+    <text x="56" y="187" fill="#b5c6d8" font-size="22">Full-stack apps. Cloud APIs. Practical AI.</text>
     <g fill="#d7e5ee" font-size="16" font-weight="600" letter-spacing="1.2">
       <text x="56" y="250">PYTHON / FASTAPI</text>
       <text x="289" y="250">NEXT.JS</text>
